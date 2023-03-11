@@ -1,0 +1,12 @@
+Iterator:
+Sets like
+HashSet,LinkedHashSet and TreeSet
+do not allow duplicate values
+
+HashSet:
+do not allow duplicate values, and doesn't follow insertion order.
+LinkedHashSet:
+do not allow duplicate values and retains the insertion order
+it is slower than HashSet
+Tree Set:
+do not allow duplicate values and sorts the data (alphabetical or number in order)
